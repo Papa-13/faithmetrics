@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Edgeware Methodist Church",
+    "location": "London, UK",
+    "denomination": "Methodist",
+    "established": 1895,
+    "avg_attendance": 180,
+    "member_count": 250
+  },
+  {
+    "id": 2,
+    "name": "Grace Community Church",
+    "location": "Accra, Ghana",
+    "denomination": "Pentecostal",
+    "established": 2005,
+    "avg_attendance": 320,
+    "member_count": 450
+  },
+  {
+    "id": 3,
+    "name": "St. Paul's Anglican",
+    "location": "Birmingham, UK",
+    "denomination": "Anglican",
+    "established": 1920,
+    "avg_attendance": 145,
+    "member_count": 200
+  },
+  {
+    "id": 4,
+    "name": "New Life Baptist",
+    "location": "Kumasi, Ghana",
+    "denomination": "Baptist",
+    "established": 2010,
+    "avg_attendance": 280,
+    "member_count": 380
+  },
+  {
+    "id": 5,
+    "name": "Trinity Fellowship",
+    "location": "Manchester, UK",
+    "denomination": "Non-denominational",
+    "established": 2015,
+    "avg_attendance": 95,
+    "member_count": 130
+  }
+]
