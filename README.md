@@ -180,22 +180,19 @@ streamlit run faithmetrics_app.py
 
 ## 📧 Contact & Support
 
-**Developer**: P (DigiTech Edge Solutions)
+**Developer**: Papa Kwadwo Bona Owusu
 - Building innovative solutions for faith communities
-- MSc Applied AI & Data Science (Southampton Solent)
+- MSc Applied AI & Data Science (Southampton Solent University)
 - MSc Business Analytics (KNUST)
 
-**Project Purpose**: Global Talent Visa Portfolio Demonstration
 
 ## 📄 License
 
-This project is created for demonstration purposes as part of a Global Talent Visa application. 
+This project is created for demonstration purposes. 
 
 ## 🙏 Acknowledgments
 
 - Edgeware Methodist Church for inspiration
-- Academic supervisors Dr. Hamidreza Soltani & Dr. Matilda Owusu-Bio
-- Faith communities worldwide
 
 ---
 
