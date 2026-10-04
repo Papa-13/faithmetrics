@@ -16,7 +16,7 @@ This guide describes the visual appearance and user experience of FaithMetrics.
 ╠═══════════════════════════════════════════════════════════════╣
 ║                                                               ║
 ║  🏛️ Select Church                                            ║
-║  [Dropdown: Edgeware Methodist Church ▼]                     ║
+║  [Dropdown: Riverside Methodist Church ▼]                     ║
 ║                                                               ║
 ║  📅 Date Range                                                ║
 ║  [Start Date] - [End Date]                                   ║

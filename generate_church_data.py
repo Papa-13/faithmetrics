@@ -17,7 +17,7 @@ random.seed(42)
 CHURCHES = [
     {
         'id': 1,
-        'name': 'Edgeware Methodist Church',
+        'name': 'Riverside Methodist Church',
         'location': 'London, UK',
         'denomination': 'Methodist',
         'established': 1895,
