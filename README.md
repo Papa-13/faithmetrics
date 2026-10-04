@@ -79,7 +79,7 @@ streamlit run faithmetrics_app.py
 ## 📊 Data Overview
 
 ### Churches Included
-1. **Edgeware Methodist Church** - London, UK (250 members)
+1. **Riverside Methodist Church** - London, UK (250 members, synthetic)
 2. **Grace Community Church** - Accra, Ghana (450 members)
 3. **St. Paul's Anglican** - Birmingham, UK (200 members)
 4. **New Life Baptist** - Kumasi, Ghana (380 members)
@@ -92,23 +92,6 @@ streamlit run faithmetrics_app.py
 - **Events**: 1,485 church events
 - **Sermons**: 520 sermon records
 - **Time Period**: 2 years (2024-2026)
-
-## 🎯 Use Cases for Global Talent Visa
-
-### Innovation & Technical Excellence
-- **ML/AI Integration**: Demonstrates practical application of clustering algorithms and predictive modeling
-- **Data Engineering**: Complex data generation with realistic patterns and distributions
-- **Full-Stack Development**: End-to-end solution from data pipeline to visualization
-
-### Social Impact
-- **Faith Community Support**: Addresses real needs in underserved non-profit sector
-- **Multi-Cultural Context**: Supports churches in both UK and Ghana
-- **Privacy-Conscious**: Designed with sensitive data protection in mind
-
-### Scalability & Architecture
-- **Multi-Tenant Design**: Supports multiple churches with isolated data
-- **Performance Optimized**: Efficient data caching and processing
-- **Production-Ready**: Clean code, documentation, and error handling
 
 ## 🔧 Technical Stack
 
@@ -190,11 +173,11 @@ streamlit run faithmetrics_app.py
 
 ## 📄 License
 
-This project is created for demonstration purposes. 
+Prototype. Contact the author before reusing or deploying.
 
 ## 🙏 Acknowledgments
 
-- Edgeware Methodist Church for inspiration
+- Edgware Methodist Church for piloting the application
 
 ---
 

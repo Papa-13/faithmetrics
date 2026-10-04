@@ -523,9 +523,9 @@ def load_data():
 
 ---
 
-## 🎯 Recommended Deployment for GTV Demo
+## 🎯 Recommended Deployment
 
-**For Portfolio Demonstration:**
+**For Demonstration:**
 1. **Streamlit Community Cloud** - Quick, free, professional URL
 2. **GitHub Repository** - Showcase code quality and documentation
 3. **Demo Video** - Record walkthrough of key features
